@@ -15,6 +15,7 @@ public class RaceTurtle extends Turtle {
 		// Kan använda direction tack vare att jag ändrade "private direction" till "protected direction" i klassen Turtle.  
 	}
 	/**
+	 * 
 	* Låter sköldpaddan gå framåt ett steg. Stegets längd ges av ett
 	* slumptal (heltal) mellan 1 och 6.
 	*/
